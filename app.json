@@ -1,8 +1,8 @@
 {
-    "name": "KarMusic",
+    "name": "Kazu-Musik",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/ArmanGG01/KarMusik",
+    "repository": "https://github.com/ionmusic/Kazu-Musik",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "isi dengan id telegram Anda sebagai pemilik bot",
             "required": true,
-            "value": "1694909518"
+            "value": "5063062493"
         },
         "ASS_ID": {
             "description": "isi dengan telegram id akun assistant",
@@ -47,17 +47,17 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "obrolansuar"
+            "value": "kazusupportgrp"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "DeployBot01"
+            "value": "punyaionnibos"
         },
         "SUDO_USERS": {
             "description": "isi dengan user id yang dapat mengakses semua fungsi di bot anda (dipisahkan dengan spasi).",
             "required": true,
-            "value": "1694909518"
+            "value": "5063062493"
         },
         "DURATION_LIMIT": {
             "description": "diisi, jangan ubah ini!!",
@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya ato di /skip",
-            "value": "https://github.com/ArmanGG01/KarMusik",
+            "value": "https://github.com/ionmusic/Kazu-Musik",
             "required": true
         },
         "UPSTREAM_BRANCH": {
