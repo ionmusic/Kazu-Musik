@@ -19,7 +19,7 @@ OWNER_ID = list(map(int, getenv('OWNER_ID', '1694909518').split()))
 GROUP = getenv("GROUP", None)
 CHANNEL = getenv("CHANNEL", None)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ArmanGG01/KarMusik")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ionmusic/Kazu-Musik")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
