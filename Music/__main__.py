@@ -55,8 +55,8 @@ async def load_start():
     await startapp()
     await app.send_message(LOG_GROUP_ID, "Bot Started")
     await client.send_message(LOG_GROUP_ID, "Assistant Started") 
-    await client.join_chat("obrolansuar")
-    await client.join_chat("Karc0de")    
+    await client.join_chat("kazusupportgrp")
+    await client.join_chat("punyaionnibos")    
     print("[INFO]: STARTED")
 
    
