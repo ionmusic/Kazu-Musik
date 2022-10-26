@@ -1,7 +1,7 @@
 <h2 align="centre">Kar Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/5e6bf2962ce5004f141cc.jpg">
+  <img src="https://telegra.ph/file/f0383ed4de3a719e2eada.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
